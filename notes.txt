@@ -1,0 +1,3 @@
+object-fit
+border radius image overflow-hidden? 
+innerhtml vs innertext
